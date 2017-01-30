@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"DocBlockr",
+		"EasyDiff",
+		"Evernote",
+		"Git",
+		"Gradle_Language",
+		"Indent XML",
+		"JSHint",
+		"LESS",
+		"LogView",
+		"Markdown Preview",
+		"Material Theme",
+		"NSIS",
+		"Package Control",
+		"PHP Companion",
+		"ReactJS",
+		"SublimePythonIDE",
+		"Sync View Scroll",
+		"Terminal",
+		"TodoReview",
+		"URLEncode"
+	]
+}
