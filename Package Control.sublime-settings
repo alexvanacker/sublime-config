@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
 		"AutoFileName",
 		"DocBlockr",
 		"EasyDiff",
@@ -21,7 +22,6 @@
 		"Package Control",
 		"PHP Companion",
 		"ReactJS",
-		"SublimePythonIDE",
 		"Sync View Scroll",
 		"Terminal",
 		"TodoReview",
